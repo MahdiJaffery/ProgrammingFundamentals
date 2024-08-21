@@ -1,11 +1,11 @@
 # Programming Fundamentals
 
-Welcome to the **Programming Fundamentals** repository! This collection includes a series of C++ programs designed to help you grasp core programming concepts and techniques.
+Welcome to the **Programming Fundamentals** repository! This collection includes a series of C++ and Python programs designed to help you grasp core programming concepts and techniques.
 All of the following files are from Programming Fundamentals Lab of FAST-NUCES Batch 22
 
 ## Overview
 
-This repository features a variety of C++ programs that cover essential programming topics, such as:
+This repository features a variety of C++ and Python programs that cover essential programming topics, such as:
 
 - **Basic Programming**: Simple exercises to understand fundamental programming constructs.
 - **Sorting Algorithms**: Implementations of common sorting algorithms.
@@ -51,8 +51,18 @@ To get started with the code in this repository:
    git clone https://github.com/MahdiJaffery/ProgrammingFundamentals.git
 2. **Nacigate to the Directory**
    ```bash
-   cd ProgrammingFundamentals
-3. **Compile and Run a Program**
+   cd ProgrammingFundamentals/C++/Midterm
+   ```
+   or
    ```bash
-   g++ 'Manual 01'/Question01.cpp -o 1
+   cd ProgrammingFundamentals/Python/Midterm
+   ```
+4. **Compile and Run a Program**
+   ```bash
+   g++ Question01.cpp -o 1
    ./1
+   ```
+   or
+   ```bash
+   python3 Question01.py
+   ```
