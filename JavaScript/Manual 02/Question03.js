@@ -30,5 +30,5 @@ rl.question("Enter your percentage: ", function (percentage) {
             break;
     }
 
-    rl.close();
+    rl.close()
 })
